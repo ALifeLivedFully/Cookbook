@@ -4,8 +4,18 @@ Description of project.
 ## Table of contents
 - [Todo](#Todo)
 
-## Todo
-- [x] Create ReadMe  
+## Todo (Simplified)
+- [x] Create ReadMe
+- [x] setup hugo site
+- [x] install the Roxo theme
+- [x] rewrite code
+- [x] write basic content to complete later
+- [x] create example content
+- [ ] fix annoying homepage title text!!!
+- [ ] create pages for each cultures farming techniques
+- [ ] fix list and single item code for farm category
+- [ ] create google form
+- [ ] embed google form into website
 
 
 ## Steps to produce a recipe
