@@ -1,47 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Roxo Blog on Roxo | Creative Design Agency</title>
+    <title>Cultural Cookbook on cultural Cookbook | Spark-Y</title>
     <link>http://localhost:1313/cookbook/</link>
-    <description>Recent content in Roxo Blog on Roxo | Creative Design Agency</description>
+    <description>Recent content in Cultural Cookbook on cultural Cookbook | Spark-Y</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2019 13:45:06 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 12:58:17 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/cookbook/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design Inspiration: The Best Projects From December</title>
-      <link>http://localhost:1313/cookbook/design-inspiration-the-best-projects-from-december/</link>
-      <pubDate>Tue, 24 Dec 2019 13:45:06 +0600</pubDate>
-      <guid>http://localhost:1313/cookbook/design-inspiration-the-best-projects-from-december/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    <item>
-      <title>The 10 Biggest Rebrands and Logo Designs of 2019</title>
-      <link>http://localhost:1313/cookbook/the-10-biggest-rebrands-and-logo-designs-of-2019/</link>
-      <pubDate>Tue, 24 Dec 2019 13:40:00 +0600</pubDate>
-      <guid>http://localhost:1313/cookbook/the-10-biggest-rebrands-and-logo-designs-of-2019/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    <item>
-      <title>Design Inspiration: The Best Projects From November</title>
-      <link>http://localhost:1313/cookbook/design-inspiration-the-best-projects-from-november/</link>
-      <pubDate>Tue, 24 Dec 2019 13:36:06 +0600</pubDate>
-      <guid>http://localhost:1313/cookbook/design-inspiration-the-best-projects-from-november/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    <item>
-      <title>Pt Chooses Classic Blue for Its Colour of the Year 2020</title>
-      <link>http://localhost:1313/cookbook/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</link>
-      <pubDate>Tue, 24 Dec 2019 13:32:54 +0600</pubDate>
-      <guid>http://localhost:1313/cookbook/pt-chooses-classic-blue-for-its-colour-of-the-year-2020/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    <item>
-      <title>The 10 Biggest Product Stories of 2019</title>
-      <link>http://localhost:1313/cookbook/the-10-biggest-product-stories-of-2019/</link>
+      <title>Za&#39;atar Chicken Bulghur Bowls</title>
+      <link>http://localhost:1313/cookbook/zaatar-chicken-bulghur-bowls/</link>
       <pubDate>Tue, 24 Dec 2019 12:58:17 +0600</pubDate>
-      <guid>http://localhost:1313/cookbook/the-10-biggest-product-stories-of-2019/</guid>
-      <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
+      <guid>http://localhost:1313/cookbook/zaatar-chicken-bulghur-bowls/</guid>
+      <description>Za&amp;rsquo;atar Chicken Bulghur Bowls ⏲️ Prep time: 10 min 🍳 Cook time: 20 min 🍽️ Servings: 4 Ingredients 4 Chicken Breasts 1 cup Bulghur Wheat 1 oz Mixed Olives, drained 4 oz Baby Spinach, chopped 2 Tbsp Za’atar Spice Blend 2 Roma Tomatoes 1 Lemon 1/2 cup Feta Cheese, crumbled 2 Garlic Cloves, minced/grated 2 Tbsp White Vinegar 1 tsp Sugar Oil Video Story This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.</description>
     </item>
   </channel>
 </rss>

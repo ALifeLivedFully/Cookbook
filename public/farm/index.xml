@@ -1,47 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Roxo | Creative Design Agency</title>
+    <title>About WeFarm&#39;s cultural garden on cultural Cookbook | Spark-Y</title>
     <link>http://localhost:1313/farm/</link>
-    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Roxo | Creative Design Agency</description>
+    <description>Recent content in About WeFarm&#39;s cultural garden on cultural Cookbook | Spark-Y</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 20:56:42 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 15:44:46 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/farm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>KIO-TAPE BRAND</title>
-      <link>http://localhost:1313/farm/kio-tape-2/</link>
-      <pubDate>Mon, 23 Dec 2019 20:56:42 +0600</pubDate>
-      <guid>http://localhost:1313/farm/kio-tape-2/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&#xA;The watch has the following features:</description>
-    </item>
-    <item>
-      <title>USE-LESS BRAND</title>
-      <link>http://localhost:1313/farm/use-less-brand/</link>
-      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
-      <guid>http://localhost:1313/farm/use-less-brand/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&#xA;The watch has the following features:</description>
-    </item>
-    <item>
-      <title>OSEN CLOCK</title>
-      <link>http://localhost:1313/farm/osen-clock/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
-      <guid>http://localhost:1313/farm/osen-clock/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&#xA;The watch has the following features:</description>
-    </item>
-    <item>
-      <title>SEAMLESS WATCH</title>
-      <link>http://localhost:1313/farm/seamless-watch/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
-      <guid>http://localhost:1313/farm/seamless-watch/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&#xA;The watch has the following features:</description>
-    </item>
-    <item>
-      <title>KIO TAPE</title>
-      <link>http://localhost:1313/farm/kio-tape/</link>
+      <title>Hmong</title>
+      <link>http://localhost:1313/farm/hmong/</link>
       <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>http://localhost:1313/farm/kio-tape/</guid>
-      <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.&#xA;The watch has the following features:</description>
+      <guid>http://localhost:1313/farm/hmong/</guid>
+      <description>Hmong Gardening Techniques Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Native American</title>
+      <link>http://localhost:1313/farm/native-american/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      <guid>http://localhost:1313/farm/native-american/</guid>
+      <description>Native American Gardening Techniques Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;</description>
     </item>
   </channel>
 </rss>

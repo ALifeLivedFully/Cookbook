@@ -1,44 +1,44 @@
 enable  : true
-title   : Team that makes the difference.
+title   : Cultural cookbook and garden team.
 members  :
   - image       : images/team/team-member-one.jpg
     name        : PABLO ESCOBAR
-    designation : Creative Director
+    designation : Spark-Y Educator
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
     name        : MONTINO RIAU
-    designation : Product Manager
+    designation : Spark-Y Apprentice
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-three.jpg
     name        : ALEX NAASRI
-    designation : Chief Design Officer
+    designation : Spark-Y Apprentice
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-four.jpg
     name        : HONGMAN CHIOA
-    designation : UX Researcher
+    designation : Spark-Y Apprentice
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-five.jpg
     name        : SANTIO ANDRESS
-    designation : Content Researcher
+    designation : Spark-Y Apprentice
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-six.jpg
     name        : RAMESH PAUL
-    designation : Creative Designer
+    designation : Spark-Y Apprentice
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
