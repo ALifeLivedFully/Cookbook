@@ -11,6 +11,7 @@ Description of project.
 - [x] rewrite code
 - [x] write basic content to complete later
 - [x] create example content
+- [ ] fix the crap i broke by forking the theme
 - [ ] fix annoying homepage title text!!!
 - [ ] create pages for each cultures farming techniques
 - [ ] fix list and single item code for farm category
