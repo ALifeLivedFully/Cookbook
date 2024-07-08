@@ -1,7 +1,7 @@
 ---
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
-type: portfolio
+type: farm
 category: ["Traditional Gardening Techniques:"]
 image: 
 project_images: ["imagees/???", "images/???"]
