@@ -2,9 +2,10 @@
 title: "Hmong"
 date: 2019-12-23T15:44:46+06:00
 type: farm
-image: "images/projects/project-thumb-four.jpg"
+image: "images/farm/hmung-garden.jpg"
 category: ["Traditional Gardening Techniques:"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/farm/hmung-garden.jpg"]
+feature_image: "images/farm/hmung-garden.jpg"
 ---
 ### Hmong Gardening Techniques
 Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...Description here...

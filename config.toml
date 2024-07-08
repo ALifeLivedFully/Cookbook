@@ -25,7 +25,7 @@ summarylength = 25
     weight  = 4
   [[menu.nav]]
     name    = "Support our work"
-    url     = "support"
+    url     = "https://www.spark-y.org/donate"
     weight  = 5
 
 # Site Params
@@ -94,9 +94,9 @@ summarylength = 25
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S FIX THE PLANET"
     primary_button      = "Support our work"
-    primary_button_url  = "support"
+    primary_button_url  = "https://www.spark-y.org/donate"
     secondary_button    = "See more from Spark-Y"
-    secondary_button_url = "https://app.slack.com/client/T01DF6LJZ0T/C01DX36DXRP" # TODO
+    secondary_button_url = "https://www.spark-y.org/" # TODO
 
   [params.footer]
     params.footer.qr_print = true
@@ -120,7 +120,7 @@ summarylength = 25
           url  = "cookbook"
         [[params.footer.sitemap.link]]
           name = "Support our work"
-          url  = "support"
+          url  = "https://www.spark-y.org/donate"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
