@@ -1,8 +1,8 @@
 ---
-title: "About Us"
+title: "About The Project"
 date: 2018-07-12T18:19:33+06:00
-heading : "TestWe are Spark-Y, A youth focused non-profit based in Minnesota."
+heading : "WeFarm and Spark-Y Teamup"
 description : "Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description...Insert description..."
-expertise_title: "Other Projects we loved building"
-expertise_sectors: ["Thing 1", "Thing 2", "Thing 3", "Thing 4", "Thing 5"]
+expertise_title: "Represented cultures"
+expertise_sectors: ["Culture 1", "Culture 2", "Culture 3", "Culture 4", "Culture 5"]
 ---
