@@ -11,11 +11,11 @@ Description of project.
 - [x] rewrite code
 - [x] write basic content to complete later
 - [x] create example content
-- [ ] fix the crap i broke by forking the theme
-- [ ] fix annoying homepage title text!!!
-- [ ] create pages for each cultures farming techniques
-- [ ] fix list and single item code for farm category
-- [ ] create google form
+- [x] fix the crap i broke by forking the theme
+- [x] fix annoying homepage title text!!!
+- [x] create pages for each cultures farming techniques
+- [x] fix list and single item code for farm category
+- [x] create google form
 - [ ] embed google form into website
 
 
