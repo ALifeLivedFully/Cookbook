@@ -12,9 +12,29 @@ I have opted for a simple pipeline that takes submissions from a google form sin
 2. the form submissions are then automatically entered into a google spreadsheet in specific cells.
 3. spreadsheet then manipulates the data of the submission to be of a suitable format. (using simple formulas)
 4. the manipulated data is then picked up by an advanced formula i wrote that essentially acts as a code generator and it constructs valid hugo style code for the submission.
-5. Post each submissions unique code manually/automatically
+5. Post each submissions unique code manually or automatically
 
-Either programming something to automatically post the code to the website repo holding the code OR manually create a new Hugo markdown code file for every submission manually (there could be 100+ submissions)
+**Why cant i just change XYZ? its just a simple google form/spreadsheet?**
+```mermaid
+flowchart TD
+    A[Change in Google Form questions/layout] -->
+    B[Change in Google Spreadsheet layout] -->
+    C[Change in Code Generator references] -->
+    D[Change in Code Generator Output] -->
+    E[Change in Code posted to site]
+```
+As you can see, a change to any one tool in the pipeline results in changing everything that follows.
+
+**How does a google form submission become a post on a website?**
+```mermaid
+flowchart TD
+    A[Chef submits recipe using google forms] -->
+    B[Google spreadsheer] -->
+    C[Formulas adjusts the data] -->
+    D[Code Generator] -->
+    E[Code generator output] -->
+    F[Code posted to site]
+```
 
 ## Todo (Simplified)
 - [x] Create ReadMe
@@ -30,7 +50,7 @@ Either programming something to automatically post the code to the website repo 
 - [x] fix list and single item code for farm category
 - [x] create google form
 - [ ] embed google form into website? (this would be nice because then the project would continue to be updated with new recipes etc) only pay the original submissions though
-- [ ] setup github action to auto create the submissions markdown file from the spreadsheet code generator 
+- [ ] setup github action to auto create the submissions markdown file from the spreadsheet code generator
 
 
 ## Steps to produce a recipe
