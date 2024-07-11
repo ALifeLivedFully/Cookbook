@@ -4,6 +4,18 @@ Description of project.
 ## Table of contents
 - [Todo](#Todo)
 
+## How is this project being created/maintained?
+I have opted for a simple pipeline that takes submissions from a google form since i am mainly working with non-technical people on this project. i am also coding simplistic code generators since i may be dealing with 100+ submissions which each need to have a page on the website.
+
+Post creation process:
+1. Google Form (relying on the form to do the most basic data validation by imposing things like a minimum charecter limit)
+2. the form submissions are then automatically entered into a google spreadsheet in specific cells.
+3. spreadsheet then manipulates the data of the submission to be of a suitable format. (using simple formulas)
+4. the manipulated data is then picked up by an advanced formula i wrote that essentially acts as a code generator and it constructs valid hugo style code for the submission.
+5. Post each submissions unique code manually/automatically 
+	5a. Either programming something to automatically post the code to the website repo holding the code
+	5b. OR manually create a new Hugo markdown code file for every submission manually (there could be 100+ submissions)
+
 ## Todo (Simplified)
 - [x] Create ReadMe
 - [x] setup hugo site
