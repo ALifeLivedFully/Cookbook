@@ -7,28 +7,30 @@ Description of project.
 ## How is this project being created/maintained?
 I have opted for a simple pipeline that takes submissions from a google form since i am mainly working with non-technical people on this project. i am also coding simplistic code generators since i may be dealing with 100+ submissions which each need to have a page on the website.
 
-Post creation process:
+**Post creation process:**
 1. Google Form (relying on the form to do the most basic data validation by imposing things like a minimum charecter limit)
 2. the form submissions are then automatically entered into a google spreadsheet in specific cells.
 3. spreadsheet then manipulates the data of the submission to be of a suitable format. (using simple formulas)
 4. the manipulated data is then picked up by an advanced formula i wrote that essentially acts as a code generator and it constructs valid hugo style code for the submission.
-5. Post each submissions unique code manually/automatically 
-	5a. Either programming something to automatically post the code to the website repo holding the code
-	5b. OR manually create a new Hugo markdown code file for every submission manually (there could be 100+ submissions)
+5. Post each submissions unique code manually/automatically
+
+Either programming something to automatically post the code to the website repo holding the code OR manually create a new Hugo markdown code file for every submission manually (there could be 100+ submissions)
 
 ## Todo (Simplified)
 - [x] Create ReadMe
 - [x] setup hugo site
 - [x] install the Roxo theme
-- [x] rewrite code
+- [x] rewrite website code
+- [x] fork the theme to change the section names and color scheme
 - [x] write basic content to complete later
 - [x] create example content
-- [x] fix the crap i broke by forking the theme
-- [x] fix annoying homepage title text!!!
+- [x] fix the crap i broke by forking the theme (could i have done this without formking the theme?)
+- [x] fix annoying homepage title text
 - [x] create pages for each cultures farming techniques
 - [x] fix list and single item code for farm category
 - [x] create google form
-- [ ] embed google form into website
+- [ ] embed google form into website? (this would be nice because then the project would continue to be updated with new recipes etc) only pay the original submissions though
+- [ ] setup github action to auto create the submissions markdown file from the spreadsheet code generator 
 
 
 ## Steps to produce a recipe
