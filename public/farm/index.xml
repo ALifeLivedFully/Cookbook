@@ -9,18 +9,25 @@
     <lastBuildDate>Mon, 23 Dec 2019 15:44:46 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/farm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hmong</title>
-      <link>http://localhost:1313/farm/hmong/</link>
+      <title>4 Sisters</title>
+      <link>http://localhost:1313/farm/native/4-sisters/</link>
       <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>http://localhost:1313/farm/hmong/</guid>
+      <guid>http://localhost:1313/farm/native/4-sisters/</guid>
+      <description>4 Sisters technique Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Rowing</title>
+      <link>http://localhost:1313/farm/hmong/rowing/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      <guid>http://localhost:1313/farm/hmong/rowing/</guid>
       <description>Hmong Gardening Techniques Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;</description>
     </item>
     <item>
-      <title>Native American</title>
-      <link>http://localhost:1313/farm/native/</link>
+      <title>Sowing</title>
+      <link>http://localhost:1313/farm/hmong/sowing/</link>
       <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
-      <guid>http://localhost:1313/farm/native/</guid>
-      <description>Native American Gardening Techniques Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;</description>
+      <guid>http://localhost:1313/farm/hmong/sowing/</guid>
+      <description>Hmong Gardening Techniques Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;Description here&amp;hellip;</description>
     </item>
   </channel>
 </rss>
