@@ -1,22 +1,62 @@
 # Cultural Cookbook - A Spark-Y project
-Description of project.
+Website for the Spark-Y cultural cookbook project. The farm is located on WeFarm property in Minnesota.
 
 ## Table of contents
 - [Todo](#Todo)
+- [How is this project being created/maintained?](#how-is-this-project-being-createdmaintained)
+	- [Post creation process](#post-creation-process)
+ 	- [Why cant i just change XYZ?](#Why-cant-i-just-change-XYZ-its-just-a-simple-google-formspreadsheet)
+  	- [How does a google form submission become a post on a website?](#How-does-a-google-form-submission-become-a-post-on-a-website)
+- [Steps to produce a recipe](#Steps-to-produce-a-recipe)
+- [Examples of recipe format](#examples)
+
+## How is this project being created/maintained?
+I have opted for a simple pipeline that takes submissions from a google form since i am mainly working with non-technical people on this project. i am also coding simplistic code generators since i may be dealing with 100+ submissions which each need to have a page on the website.
+
+### Post creation process:
+1. Google Form (relying on the form to do the most basic data validation by imposing things like a minimum charecter limit)
+2. the form submissions are then automatically entered into a google spreadsheet in specific cells.
+3. spreadsheet then manipulates the data of the submission to be of a suitable format. (using simple formulas)
+4. the manipulated data is then picked up by an advanced formula i wrote that essentially acts as a code generator and it constructs valid hugo style code for the submission.
+5. Post each submissions unique code manually or automatically
+
+### Why cant i just change XYZ? its just a simple google form/spreadsheet?
+```mermaid
+flowchart TD
+    A[Change in Google Form questions/layout] -->
+    B[Change in Google Spreadsheet layout] -->
+    C[Change in Code Generator references] -->
+    D[Change in Code Generator Output] -->
+    E[Change in Code posted to site]
+```
+As you can see, a change to any one tool in the pipeline results in changing everything that follows.
+
+**How does a google form submission become a post on a website?**
+```mermaid
+flowchart TD
+    A[Chef submits recipe using google forms] -->
+    B[Google spreadsheer] -->
+    C[Formulas adjusts the data] -->
+    D[Code Generator] -->
+    E[Code generator output] -->
+    F[Code posted to site]
+```
 
 ## Todo (Simplified)
 - [x] Create ReadMe
 - [x] setup hugo site
 - [x] install the Roxo theme
-- [x] rewrite code
+- [x] rewrite website code
+- [x] fork the theme to change the section names and color scheme
 - [x] write basic content to complete later
 - [x] create example content
-- [x] fix the crap i broke by forking the theme
-- [x] fix annoying homepage title text!!!
+- [x] fix the crap i broke by forking the theme (could i have done this without formking the theme?)
+- [x] fix annoying homepage title text
 - [x] create pages for each cultures farming techniques
 - [x] fix list and single item code for farm category
 - [x] create google form
-- [ ] embed google form into website
+- [ ] embed google form into website? (this would be nice because then the project would continue to be updated with new recipes etc) only pay the original submissions though
+- [ ] setup github action to auto create the submissions markdown file from the spreadsheet code generator
 
 
 ## Steps to produce a recipe
