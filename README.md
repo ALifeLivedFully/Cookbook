@@ -1,20 +1,26 @@
 # Cultural Cookbook - A Spark-Y project
-Description of project.
+Website for the Spark-Y cultural cookbook project. The farm is located on WeFarm property in Minnesota.
 
 ## Table of contents
 - [Todo](#Todo)
+- [How is this project being created/maintained?](#how-is-this-project-being-createdmaintained)
+	- [Post creation process](#post-creation-process)
+ 	- [Why cant i just change XYZ?](#Why-cant-i-just-change-XYZ-its-just-a-simple-google-formspreadsheet)
+  	- [How does a google form submission become a post on a website?](#How-does-a-google-form-submission-become-a-post-on-a-website)
+- [Steps to produce a recipe](#Steps-to-produce-a-recipe)
+- [Examples of recipe format](#examples)
 
 ## How is this project being created/maintained?
 I have opted for a simple pipeline that takes submissions from a google form since i am mainly working with non-technical people on this project. i am also coding simplistic code generators since i may be dealing with 100+ submissions which each need to have a page on the website.
 
-**Post creation process:**
+### Post creation process:
 1. Google Form (relying on the form to do the most basic data validation by imposing things like a minimum charecter limit)
 2. the form submissions are then automatically entered into a google spreadsheet in specific cells.
 3. spreadsheet then manipulates the data of the submission to be of a suitable format. (using simple formulas)
 4. the manipulated data is then picked up by an advanced formula i wrote that essentially acts as a code generator and it constructs valid hugo style code for the submission.
 5. Post each submissions unique code manually or automatically
 
-**Why cant i just change XYZ? its just a simple google form/spreadsheet?**
+### Why cant i just change XYZ? its just a simple google form/spreadsheet?
 ```mermaid
 flowchart TD
     A[Change in Google Form questions/layout] -->
