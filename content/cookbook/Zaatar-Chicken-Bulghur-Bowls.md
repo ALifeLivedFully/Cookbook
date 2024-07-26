@@ -10,14 +10,17 @@ description: "⏲️ Prep: 10 min | 🍳 Cook: 20 min | 🍽️ Serves: 4"
 
 This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.
 
-Instructional Video available on [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-Video also available on [IPFS](https://ipfs.io/ipfs/QmcniBv7UQ4gGPQQW2BwbD4ZZHzN3o3tPuNLZCbBchd1zh)
+Recipe Video:  
+[Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[IPFS Video](https://ipfs.io/ipfs/QmcniBv7UQ4gGPQQW2BwbD4ZZHzN3o3tPuNLZCbBchd1zh)
 
-#### Recipe Stats
 
-| ⏲️ Prep time: | 🍳 Cook time: | 🍽️ Servings: |
-|---|---|---|
-|10 min | 20 min | 4 |
+#### Recipe Info
+
+- ⏲️ Prep time: 10 min  
+- 🍳 Cook time: 20 min  
+- 🍽️ Servings: 4  
+
 
 #### Ingredients
 
