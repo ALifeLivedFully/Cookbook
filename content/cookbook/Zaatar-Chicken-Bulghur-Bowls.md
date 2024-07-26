@@ -8,9 +8,14 @@ description: "⏲️ Prep: 10 min | 🍳 Cook: 20 min | 🍽️ Serves: 4"
 ---
 ### Za'atar Chicken Bulghur Bowls
 
+This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.
+
+#### Recipe Stats
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 20 min
 - 🍽️ Servings: 4
+
 
 #### Ingredients
 
@@ -27,11 +32,10 @@ description: "⏲️ Prep: 10 min | 🍳 Cook: 20 min | 🍽️ Serves: 4"
 - 1 tsp Sugar
 - Oil
 
+
 #### Video
 ![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-#### Story
-This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.
 
 #### Directions
 
