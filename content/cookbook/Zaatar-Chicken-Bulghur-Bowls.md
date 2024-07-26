@@ -10,6 +10,8 @@ description: "⏲️ Prep: 10 min | 🍳 Cook: 20 min | 🍽️ Serves: 4"
 
 This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.
 
+[Skip to Video](#Video)
+
 #### Recipe Stats
 
 - ⏲️ Prep time: 10 min
@@ -33,10 +35,6 @@ This recipe has been passed down for 3 generations in my family and was made usi
 - Oil
 
 
-#### Video
-![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
 #### Directions
 
 1. Preheat oven to 450F. Add 1 1/2 cup water and 1/4 tsp salt to a medium pot. Cover and bring to a boil over high heat. While water comes to a boil, cut tomato into 1/4" pieces. Zest and juice the lemon.
@@ -45,6 +43,11 @@ This recipe has been passed down for 3 generations in my family and was made usi
 4. Meanwhile, whisk together vinegar, lemon juice, lemon zest, 1 tsp oil, and 1/2 tsp salt in a small bowl. Set aside.
 5. When bulghur is done, fluff with a fork. Add olives, spinach, tomatoes, and half the dressing to the pot. Season with salt and pepper, then stir to combine.
 6. Thinly slice chicken. Divide bulghur salad between plates, then top with chicken. Sprinkle with feta and drizzle remaining dressing over top.
+
+
+#### Video
+![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 #### Contributor(s)
 
