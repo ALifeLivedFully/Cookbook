@@ -15,10 +15,9 @@ Video also available on [IPFS](https://ipfs.io/ipfs/QmcniBv7UQ4gGPQQW2BwbD4ZZHzN
 
 #### Recipe Stats
 
-- ⏲️ Prep time: 10 min
-- 🍳 Cook time: 20 min
-- 🍽️ Servings: 4
-
+| ⏲️ Prep time: | 🍳 Cook time: | 🍽️ Servings: |
+|---|---|---|
+|10 min | 20 min | 4 |
 
 #### Ingredients
 
