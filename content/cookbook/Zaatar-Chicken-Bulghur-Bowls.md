@@ -8,9 +8,17 @@ description: "⏲️ Prep: 10 min | 🍳 Cook: 20 min | 🍽️ Serves: 4"
 ---
 ### Za'atar Chicken Bulghur Bowls
 
+This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.
+
+Instructional Video available on [Youtube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+Video also available on [IPFS](https://ipfs.io/ipfs/QmcniBv7UQ4gGPQQW2BwbD4ZZHzN3o3tPuNLZCbBchd1zh)
+
+#### Recipe Stats
+
 - ⏲️ Prep time: 10 min
 - 🍳 Cook time: 20 min
 - 🍽️ Servings: 4
+
 
 #### Ingredients
 
@@ -27,11 +35,6 @@ description: "⏲️ Prep: 10 min | 🍳 Cook: 20 min | 🍽️ Serves: 4"
 - 1 tsp Sugar
 - Oil
 
-#### Video
-![](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-#### Story
-This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques. This recipe has been passed down for 3 generations in my family and was made using traditional ojibwe gardening and cooking techniques.
 
 #### Directions
 
@@ -41,6 +44,7 @@ This recipe has been passed down for 3 generations in my family and was made usi
 4. Meanwhile, whisk together vinegar, lemon juice, lemon zest, 1 tsp oil, and 1/2 tsp salt in a small bowl. Set aside.
 5. When bulghur is done, fluff with a fork. Add olives, spinach, tomatoes, and half the dressing to the pot. Season with salt and pepper, then stir to combine.
 6. Thinly slice chicken. Divide bulghur salad between plates, then top with chicken. Sprinkle with feta and drizzle remaining dressing over top.
+
 
 #### Contributor(s)
 
