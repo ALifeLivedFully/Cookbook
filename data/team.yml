@@ -8,19 +8,19 @@ members  :
     linkedin    : https://www.linkedin.com/in/alifelivedfully/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
-    name        : PawPaw Wah
-    designation : Artist
-    facebook    : https://www.medium.com/
-    twitter     : https://www.linkedin.com/
-    github      : https://www.instagram.com/
-
   - image       : images/team/Miranda.jpg
     name        : Miranda Condor Arias
     designation : Spark-Y Apprentice
     whatsapp    : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
+  
+  - image       : images/team/team-member-two.jpg
+    name        : PawPaw Wah
+    designation : Artist
+    facebook    : https://www.medium.com/
+    twitter     : https://www.linkedin.com/
+    github      : https://www.instagram.com/
 
   - image       : images/team/Quinn.png
     name        : Quinn Feinberg
