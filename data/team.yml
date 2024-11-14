@@ -1,16 +1,16 @@
 enable  : true
 title   : Cultural cookbook and garden team.
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Spark-Y Educator
-    medium      : https://www.medium.com/
-    linkedin    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - image       : images/team/Dani.jpeg
+    name        : Dani Morrison
+    designation : Spark-Y Apprentice
+    bookmark    : https://alifelivedfully.com/
+    linkedin    : https://www.linkedin.com/in/alifelivedfully/
+    website     : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
     name        : MONTINO RIAU
-    designation : Spark-Y Apprentice
+    designation : Spark-Y Educator
     medium      : https://www.medium.com/
     linkedin    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
